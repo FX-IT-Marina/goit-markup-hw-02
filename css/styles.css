@@ -176,11 +176,14 @@ body {
   cursor: pointer;
   border: none;
 }
+
+/* Hover/focus */
 .btn:focus,
 .btn:hover {
   background: var(--hover-color);
   color: var(--white-color);
 }
+
 /* Portfolio footer */
 
 /* Footer */
